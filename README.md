@@ -1,5 +1,9 @@
+
+<img src="https://thumbs.dreamstime.com/b/programming-language-coding-banner-compilation-css-technology-210006161.jpg" height="150" width="1000">
 <h1 align="center">Hi 👋, I'm Navachander</h1>
 <h3 align="center">Data Engineering Student at University of Technology Malaysia</h3>
+
+<img src = "https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526q5ksk1a9nq5b6htqykttqk5y09iofp6rwndcedb&ep=v1_gifs_search&rid=200w.gif&ct=g" align = "center" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navachander1&label=Profile%20views&color=0e75b6&style=flat" alt="navachander1" /> </p>
 
